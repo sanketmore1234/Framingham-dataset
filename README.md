@@ -62,6 +62,6 @@ Selected the best performing model, used scoring parameter as F1 score and Recal
 
 # Best Model performance
 ## Ridge Classifier
-### Performance - Recall = 725, 63% and F1 score = 80%, 42% classwise
+### Performance - Recall = 72%, 63% and F1 score = 80%, 42% classwise
 ![alt text](https://github.com/sanketmore1234/Framingham-dataset/blob/main/Ridge%20classifier%20best.jpg?raw=true)
 
